@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Task Tracker</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Task Tracker</h1>
+        
+        <!-- Form to add tasks -->
+        <form id="taskForm">
+            <label for="taskTitle">Task Title:</label>
+            <input type="text" id="taskTitle" required>
+
+            <label for="taskDescription">Task Description:</label>
+            <textarea id="taskDescription" required></textarea>
+
+            <button type="button" onclick="addTask()">Add Task</button>
+        </form>
+
+        <!-- Message area -->
+        <div id="messageArea" class="message"></div>
+
+        <!-- Task list -->
+        <ul id="taskList"></ul>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

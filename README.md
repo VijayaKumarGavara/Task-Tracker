@@ -10,7 +10,7 @@ A task tracking application that allows users to manage their daily tasks effici
 - Real time Tracking and Notifying Users.
 - User Dashboard showing their performance stats regarding past works.
 ## Technologies Used
-- [List your technologies here, e.g., HTML, CSS, JavaScript, Node.js, Express, etc.]
+- [List your technologies here, e.g., HTML, CSS, JavaScript.]
 
 ## Setup Instructions
 1. Clone the repository:

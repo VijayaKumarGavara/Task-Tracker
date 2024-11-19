@@ -1,7 +1,6 @@
 # Task Tracker
 
-A task tracking application that allows users to manage their daily tasks efficiently. Built using [technologies used, e.g., JavaScript, Node.js, Express, etc.].
-
+A task tracking application that allows users to manage their daily tasks efficiently.
 ## Features
 - Add, edit, and delete tasks
 - Mark tasks as complete or pending
